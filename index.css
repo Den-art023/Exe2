@@ -1,0 +1,80 @@
+/* styles.css */
+
+/* Styling untuk elemen <body> */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  /* Styling untuk elemen <h1> */
+  h1 {
+    color: #333;
+  }
+  
+  /* Styling untuk elemen <h2> */
+  h2 {
+    color: #555;
+  }
+  
+  /* Styling untuk elemen <ul> */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Styling untuk elemen <li> */
+  li {
+    margin-bottom: 30px;
+  }
+
+  /* styles.css */
+
+/* Gaya deskripsi */
+li p {
+  font-size: 14px;
+  color: #888;
+  margin-top: 10px;
+}
+
+/* Gaya judul video, audio, dan gambar */
+li h2 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 5px;
+}
+  
+  /* Styling untuk elemen <audio> */
+  audio {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Styling untuk elemen <video> */
+  video {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+  }
+  
+  /* Styling untuk elemen <picture> */
+  picture img {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+  }
+  
+  /* Styling untuk elemen <button> */
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+  
